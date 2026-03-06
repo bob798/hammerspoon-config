@@ -5,6 +5,7 @@
 1. Install [Hammerspoon](http://www.hammerspoon.org/)
 2. `git clone https://github.com/sugood/hammerspoon.git ~/.hammerspoon`
 3. [Detailed description](https://blog.csdn.net/sugoods/article/details/108984326)
+4. 电脑必须赋予hammerspoon 辅助权限
 
 ## Modifier keys
 |           |  Key           |
